@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "response": {
+    "shouldEndSession": false,
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "<speak> Which table do you want me to recite for you ? </speak>"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak> Which table do you want me to recite for you ? </speak>"
+      }
+    }
+  },
+  "sessionAttributes": {}
+}
