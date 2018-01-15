@@ -1,0 +1,44 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "SessionId.ffd7a6c0-11ef-40db-9771-59fca2636861",
+    "application": {
+      "applicationId": "amzn1.ask.skill.XXX"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.XXX"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.XXX",
+    "intent": {
+      "name": "GetTables",
+      "slots": {
+        "TablesNumber": {
+          "name": "TablesNumber"
+        }
+      }
+    },
+    "locale": "en-IN",
+    "timestamp": "2018-01-04T17:26:00Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.XXX"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.XXX"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}
