@@ -1,0 +1,9 @@
+GetTables tables
+GetTables open tables
+GetTables open tables for {TablesNumber}
+GetTables give me table for {TablesNumber}
+GetTables {TablesNumber}
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me
+AMAZON.StopIntent stop
+AMAZON.CancelIntent cancel
